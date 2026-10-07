@@ -4,6 +4,8 @@ BIM specialist. I design and automate **Revit coordination across discipline mod
 
 **Vietnam** · [LinkedIn](https://www.linkedin.com/in/evgenii-p-99093597/) · [Selected automation](https://github.com/assssdrew/bim-revit-automation)
 
+**Open to:** remote BIM Manager / BIM Automation roles (US/EU) · fully remote · UTC+7
+
 The work is process design in Python, PowerShell and the Revit API — operator UIs, staged pipelines, reports, watchers. Unattended batch runs are one delivery path, not the whole skill set.
 
 **Stack:** Revit API (IronPython, [Revit Batch Processor](https://github.com/bvn-architecture/RevitBatchProcessor)), PowerShell, WinForms, OpenXML Excel reports. Revit Batch Processor is a third-party GPL-3.0 tool ([bvn-architecture/RevitBatchProcessor](https://github.com/bvn-architecture/RevitBatchProcessor); see NOTICE in the [portfolio repo](https://github.com/assssdrew/bim-revit-automation)).

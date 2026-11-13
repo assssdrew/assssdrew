@@ -24,7 +24,7 @@ Tested on real working models. Compact save has run on long lists (~125 models);
 | [Project units](https://github.com/assssdrew/bim-revit-automation/tree/main/cases/01-project-units) | Batch Length accuracy on local / UNC / Revit Server models |
 | [Levels & grids](https://github.com/assssdrew/bim-revit-automation/tree/main/cases/03-levels-grids) | BF↔AR and discipline↔BF levels/grids audit and controlled apply on base files |
 | [FTP model alerts](https://github.com/assssdrew/bim-revit-automation/tree/main/cases/04-ftp-model-alerts) | Push alerts when shared exchange folders change, without manual watch |
-| [Typical floors](https://github.com/assssdrew/bim-revit-automation/tree/main/cases/07-typical-floors) | Apartment schedule export: Revit → Dynamo → Excel (166 apartments, floors 2–17, 10 groups) |
+| [Apartment schedule export](https://github.com/assssdrew/bim-revit-automation/tree/main/cases/07-apartment-schedule-export) | Apartment schedule export: Revit → Dynamo → Excel (166 apartments, floors 2–17, 10 groups) |
 
 Safety-first writes: audit ≠ apply; Detach is not used on live production centrals.
 
